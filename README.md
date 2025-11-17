@@ -13,6 +13,7 @@ I'm a software developer passionate about learning multiple programming language
 - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+-![MySQL]
 
 ## 🔭 Projects / プロジェクト
 
@@ -27,11 +28,13 @@ A calendar application with holiday support, implemented in four different langu
 - Exploring concurrent programming patterns in Go
 - Learning modern Android development with Kotlin
 - Understanding low-level programming with C
+- Learning SQL Basics with MySQL
 
 - Rustでシステムプログラミングの理解を深める
 - Goで並行プログラミングパターンを探求
 - Kotlinで最新のAndroid開発を学習
 - Cで低レベルプログラミングを理解
+- MySQLでSQLの基礎を学習
 
 ## 📊 GitHub Stats / GitHubステータス
 
