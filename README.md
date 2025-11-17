@@ -13,7 +13,31 @@ I'm a software developer passionate about learning multiple programming language
 - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
--![MySQL]
+-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" role="img" aria-label="MySQL">
+  <title>MySQL</title>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4479A1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00618A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="120" height="28" rx="5" fill="url(#gradient)"/>
+  
+  <!-- MySQL Logo -->
+  <g transform="translate(10, 8)">
+    <!-- Dolphin simplified shape -->
+    <path d="M3,6 Q3,3 5,2 Q7,1 8,2 Q9,3 9,4 L9,6 Q9,8 8,9 Q7,10 5,10 Q3,9 3,6 Z" fill="#F29111"/>
+    <circle cx="6" cy="5" r="0.5" fill="#00618A"/>
+    <path d="M9,4 Q10,3 11,4 Q11,5 10,6" stroke="#F29111" stroke-width="0.8" fill="none"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="28" y="18.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">
+    MySQL
+  </text>
+</svg>
 
 ## 🔭 Projects / プロジェクト
 
