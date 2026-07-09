@@ -9,6 +9,7 @@ I'm a software developer passionate about learning multiple programming language
 ## 💻 Tech Stack / 技術スタック
 
 ### Currently Learning / 学習中
+
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -18,9 +19,62 @@ I'm a software developer passionate about learning multiple programming language
 ## 🔭 Projects / プロジェクト
 
 ### 🗓️ Multi-Language Calendar
+
 A calendar application with holiday support, implemented in four different languages (C, Go, Kotlin, Rust) to compare language features and performance.
 
 4つの異なる言語（C、Go、Kotlin、Rust）で実装した祝日対応カレンダーアプリケーション。言語の特徴とパフォーマンスを比較しています。
+
+### 🔢 base-conversion
+
+A decimal-to-binary/octal/hexadecimal converter implemented in four languages (C, Go, Kotlin, Rust) to compare syntax and toolchains side by side.
+
+10進数を2進数・8進数・16進数に変換するプログラムを、C・Go・Kotlin・Rustの4言語で実装し、構文やツールチェーンを比較する学習用プロジェクトです。
+
+- 🔗 Repo: [base-conversion](https://github.com/Rocky-Seven/base-conversion)
+
+### 📘 c-language-studies
+
+A study repository applying C to Basic Information Technology Engineer Exam (FE exam) algorithm problems, structured to allow future comparisons with Go and Kotlin implementations of the same problems.
+
+基本情報技術者試験（FE試験）のアルゴリズム問題をC言語で解いていく学習リポジトリです。将来的にGo・Kotlinでの実装比較も行えるよう構成しています。
+
+- 🔗 Repo: [c-language-studies](https://github.com/Rocky-Seven/c-language-studies)
+- 📝 Related articles on [my-studies.org](https://my-studies.org)
+
+### 🐹 go-learning
+
+A blog-linked Go study repository, progressing from basic syntax (variables, control flow, functions) through structs/interfaces/goroutines to web servers and testing — all runnable instantly via GitHub Codespaces.
+
+ブログ記事と連動したGo言語の学習リポジトリ。基礎文法（変数・制御構文・関数）から構造体・インターフェース・ゴルーチン、Webサーバーやテストまで段階的に学習できます。GitHub Codespacesで環境構築不要のまますぐに始められます。
+
+- 🔗 Repo: [go-learning](https://github.com/Rocky-Seven/go-learning)
+- 📝 Related articles on [my-studies.org](https://my-studies.org)
+
+### 🎯 kotlin-learning
+
+A Kotlin study repository covering basic syntax through OOP, collections, and coroutines, set up for instant use with GitHub Codespaces and a 4-week study plan.
+
+Kotlinの基礎文法からオブジェクト指向、コレクション、コルーチンまでを学ぶリポジトリ。GitHub Codespacesですぐに使え、4週間の学習プランも用意しています。
+
+- 🔗 Repo: [kotlin-learning](https://github.com/Rocky-Seven/kotlin-learning)
+- 📝 Related articles on [my-studies.org](https://my-studies.org)
+
+### 🦀 rust-practice
+
+A beginner-friendly Rust study repository linked to blog posts, running entirely in the browser via GitHub Codespaces — from environment setup through variables, functions, control flow, and ownership.
+
+ブログ記事と連動した初心者向けRust学習リポジトリ。GitHub Codespacesでブラウザだけで完結し、環境構築から変数・関数・制御構文・所有権まで段階的に学べます。
+
+- 🔗 Repo: [rust-practice](https://github.com/Rocky-Seven/rust-practice)
+- 📝 Related articles on [my-studies.org](https://my-studies.org)
+
+### 🗄️ mysql-learning
+
+A hands-on SQL study repository using an employee/department schema in GitHub Codespaces, covering queries, joins, aggregation, and sorting.
+
+社員表・部署表を使ってSQLの基本操作（検索、結合、集計、並び替え）を学ぶGitHub Codespaces対応の学習リポジトリです。
+
+- 🔗 Repo: [mysql-learning](https://github.com/Rocky-Seven/mysql-learning)
 
 ## 🌱 What I'm Focusing On / 現在の取り組み
 
@@ -28,24 +82,25 @@ A calendar application with holiday support, implemented in four different langu
 - Exploring concurrent programming patterns in Go
 - Learning modern Android development with Kotlin
 - Understanding low-level programming with C
+- Applying C to FE exam algorithm problems, with Go/Kotlin comparisons planned
 - Learning SQL Basics with MySQL
 
 - Rustでシステムプログラミングの理解を深める
 - Goで並行プログラミングパターンを探求
 - Kotlinで最新のAndroid開発を学習
 - Cで低レベルプログラミングを理解
+- FE試験のアルゴリズム問題をCで解き、Go・Kotlinとの比較も計画中
 - MySQLでSQLの基礎を学習
 
 ## 📊 GitHub Stats / GitHubステータス
 
-![Rocky-Seven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky-Seven&show_icons=true&theme=radical)
+[![Rocky-Seven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky-Seven&show_icons=true&theme=radical)](https://github.com/Rocky-Seven)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Seven&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Seven&layout=compact&theme=radical)](https://github.com/Rocky-Seven)
 
 ## 📫 How to Reach Me / 連絡先
 
-- 📝 Blog: [https://my-studies.org]
-
+- 📝 Blog: [my-studies.org](https://my-studies.org)
 
 ## 💡 Fun Fact / 豆知識
 
