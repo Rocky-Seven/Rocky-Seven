@@ -94,9 +94,9 @@ A hands-on SQL study repository using an employee/department schema in GitHub Co
 
 ## 📊 GitHub Stats / GitHubステータス
 
-[![Rocky-Seven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky-Seven&show_icons=true&theme=radical)](https://github.com/Rocky-Seven)
+[![Rocky-Seven's GitHub stats](https://github-stats-extended.vercel.app/api?username=Rocky-Seven&show_icons=true&theme=radical)](https://github.com/Rocky-Seven)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Seven&layout=compact&theme=radical)](https://github.com/Rocky-Seven)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Rocky-Seven&layout=compact&theme=radical)](https://github.com/Rocky-Seven)
 
 ## 📫 How to Reach Me / 連絡先
 
