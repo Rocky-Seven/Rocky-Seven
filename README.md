@@ -24,6 +24,9 @@ A calendar application with holiday support, implemented in four different langu
 
 4つの異なる言語（C、Go、Kotlin、Rust）で実装した祝日対応カレンダーアプリケーション。言語の特徴とパフォーマンスを比較しています。
 
+- 🔗 Repo: [multi-pg-lang-calendar](https://github.com/Rocky-Seven/multi-pg-lang-calendar)
+-  📝 Related articles: [第1日目の記事](https://my-studies.org/lets-create-a-calendar-that-handles-holidays-using-multiple-programming-languages-c-go-rust-kotlin-day-1/)
+
 ### 🔢 base-conversion
 
 A decimal-to-binary/octal/hexadecimal converter implemented in four languages (C, Go, Kotlin, Rust) to compare syntax and toolchains side by side.
