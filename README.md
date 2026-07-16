@@ -15,6 +15,7 @@ I'm a software developer passionate about learning multiple programming language
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat&logoColor=white)
 
 ## 🔭 Projects / プロジェクト
 
@@ -79,6 +80,15 @@ A hands-on SQL study repository using an employee/department schema in GitHub Co
 
 - 🔗 Repo: [mysql-learning](https://github.com/Rocky-Seven/mysql-learning)
 
+### 🏦 cobol-learning
+
+A COBOL study repository covering practical business programs such as bank account management and sales aggregation, along with GnuCOBOL environment setup.
+
+銀行口座管理や売上集計といった実務に近いCOBOLプログラムと、GnuCOBOLの環境構築をまとめた学習リポジトリです。
+
+- 🔗 Repo: [cobol-learning](https://github.com/Rocky-Seven/cobol-learning)
+- 📝 Related articles on [my-studies.org](https://my-studies.org)
+
 ## 🌱 What I'm Focusing On / 現在の取り組み
 
 - Deepening understanding of systems programming with Rust
@@ -87,6 +97,7 @@ A hands-on SQL study repository using an employee/department schema in GitHub Co
 - Understanding low-level programming with C
 - Applying C to FE exam algorithm problems, with Go/Kotlin comparisons planned
 - Learning SQL Basics with MySQL
+- Learning practical business logic patterns with COBOL
 
 - Rustでシステムプログラミングの理解を深める
 - Goで並行プログラミングパターンを探求
@@ -94,6 +105,7 @@ A hands-on SQL study repository using an employee/department schema in GitHub Co
 - Cで低レベルプログラミングを理解
 - FE試験のアルゴリズム問題をCで解き、Go・Kotlinとの比較も計画中
 - MySQLでSQLの基礎を学習
+- COBOLで実務に近い業務ロジックのパターンを学習
 
 ## 📊 GitHub Stats / GitHubステータス
 
