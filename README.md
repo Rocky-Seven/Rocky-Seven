@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rocky-Seven / こんにちは、Rocky-Sevenです
 
-## 🚀 About Me / 自己紹介
+## 🚀 self-introduction / 自己紹介
 
 I'm a software developer passionate about learning multiple programming languages and exploring different programming paradigms.
 
