@@ -4,7 +4,7 @@
 
 I'm a software developer passionate about learning multiple programming languages and exploring different programming paradigms.
 
-複数のプログラミング言語を学び、様々なプログラミングパラダイムを探求することに情熱を注いでいるソフトウェア開発者です。
+私は、複数のプログラミング言語を学び、様々なプログラミングパラダイムを探求することに情熱を注いでいるソフトウェア開発者です。
 
 ## 💻 Tech Stack / 技術スタック
 
@@ -26,7 +26,7 @@ A calendar application with holiday support, implemented in four different langu
 4つの異なる言語（C、Go、Kotlin、Rust）で実装した祝日対応カレンダーアプリケーション。言語の特徴とパフォーマンスを比較しています。
 
 - 🔗 Repo: [multi-pg-lang-calendar](https://github.com/Rocky-Seven/multi-pg-lang-calendar)
--  📝 Related articles: [第1日目の記事](https://my-studies.org/lets-create-a-calendar-that-handles-holidays-using-multiple-programming-languages-c-go-rust-kotlin-day-1/)
+-  📝 Related articles: [マルチ言語（C言語、Go言語、Rust、Kotlin）で祝日対応のカレンダーをつくろう！（第1日目）](https://my-studies.org/lets-create-a-calendar-that-handles-holidays-using-multiple-programming-languages-c-go-rust-kotlin-day-1/)
 
 ### 🔢 base-conversion
 
@@ -35,15 +35,16 @@ A decimal-to-binary/octal/hexadecimal converter implemented in four languages (C
 10進数を2進数・8進数・16進数に変換するプログラムを、C・Go・Kotlin・Rustの4言語で実装し、構文やツールチェーンを比較する学習用プロジェクトです。
 
 - 🔗 Repo: [base-conversion](https://github.com/Rocky-Seven/base-conversion)
+-  📝 Related articles:[GitHub Codespacesで基数変換プログラムをつくろう！（C言語、Go言語、Kotlin、Rust対応）](https://my-studies.org/create-a-base-conversion-program-on-github-codespaces-supports-c-go-kotlin-and-rust/)
 
 ### 📘 c-language-studies
 
-A study repository applying C to Basic Information Technology Engineer Exam (FE exam) algorithm problems, structured to allow future comparisons with Go and Kotlin implementations of the same problems.
+This is a repository containing the code featured in the "C Language" category of my blog (https://my-studies.org).
 
-基本情報技術者試験（FE試験）のアルゴリズム問題をC言語で解いていく学習リポジトリです。将来的にGo・Kotlinでの実装比較も行えるよう構成しています。
+私のブログ(https:// my-studies.org) の「C言語」カテゴリーで扱っているコードをまとめたリポジトリです。
 
 - 🔗 Repo: [c-language-studies](https://github.com/Rocky-Seven/c-language-studies)
-- 📝 Related articles on [my-studies.org](https://my-studies.org)
+- 📝 Related articles on [my-studies.org](https://my-studies.org/category/sikaku/computer/programming/c-language/)
 
 ### 🐹 go-learning
 
@@ -74,11 +75,12 @@ A beginner-friendly Rust study repository linked to blog posts, running entirely
 
 ### 🗄️ mysql-learning
 
-A hands-on SQL study repository using an employee/department schema in GitHub Codespaces, covering queries, joins, aggregation, and sorting.
+This is a learning repository compatible with GitHub Codespaces, designed to teach basic SQL operations (searching, joining, aggregating, and sorting) based on my blog (https://my-studies.org).
 
-社員表・部署表を使ってSQLの基本操作（検索、結合、集計、並び替え）を学ぶGitHub Codespaces対応の学習リポジトリです。
+私のブログ(https:// my-studies.org) のSQLの基本操作（検索、結合、集計、並び替え）を学ぶGitHub Codespaces対応の学習リポジトリです。
 
 - 🔗 Repo: [mysql-learning](https://github.com/Rocky-Seven/mysql-learning)
+- 📝 Related articles on[my-studies.org](https://my-studies.org/category/manabi/it-basic/mysql/)
 
 ### 🏦 cobol-learning
 
@@ -87,7 +89,7 @@ A COBOL study repository covering practical business programs such as bank accou
 銀行口座管理や売上集計といった実務に近いCOBOLプログラムと、GnuCOBOLの環境構築をまとめた学習リポジトリです。
 
 - 🔗 Repo: [cobol-learning](https://github.com/Rocky-Seven/cobol-learning)
-- 📝 Related articles on [my-studies.org](https://my-studies.org)
+- 📝 Related articles on [my-studies.org](https://my-studies.org/category/manabi/it-basic/cobol/)
 
 ## 🌱 What I'm Focusing On / 現在の取り組み
 
@@ -117,11 +119,11 @@ A COBOL study repository covering practical business programs such as bank accou
 
 - 📝 Blog: [my-studies.org](https://my-studies.org)
 
-## 💡 Fun Fact / 豆知識
+## 💡 About Me / 私について
 
 I enjoy comparing how different programming languages approach the same problem!
 
-同じ問題に対して異なるプログラミング言語がどのようにアプローチするかを比較するのが好きです！
+私は、同じ問題に対して異なるプログラミング言語がどのようにアプローチするかを比較するのが好きです！
 
 ---
 
